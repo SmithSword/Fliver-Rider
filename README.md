@@ -30,16 +30,6 @@ To build and run the app on your device, do the following:
 
 Please read the [CONTRIBUTING.md](CONTRIBUTING.md) file for more details on how to contribute.
 
-## Credits
-
-This project is primarily developed by a bunch of Computer Engineering students at NMIMS's MPSTME:
-
--   [Urmil Shroff](https://github.com/urmilshroff)
--   [Priyansh Ramnani](https://github.com/prince1998)
--   [Vinay Kolwankar](https://github.com/vinay-ai)
-
-Take a look at the entire list of [contributors](https://github.com/fliverdev/rider/graphs/contributors) to see who all have helped with the project via pull requests.
-
 ## License
 
 This project is licensed under the GNU GPL v3 - see the [LICENSE](LICENSE) file for details.
